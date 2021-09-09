@@ -1,4 +1,5 @@
-
+###MISMA SITUACIÓN, LAS FUNCIONES NO DEBEN IR DENTRO OTRAS FUNCIONES
+##TU CALCULO FALLA PARA CASOS COMO 2019, 2021
 def main():
     #escribe tu código abajo de esta línea
     def es_bisiesto(x):
